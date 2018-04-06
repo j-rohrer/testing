@@ -1,3 +1,3 @@
 ###
 
-print("nice")
+print("not nice")
